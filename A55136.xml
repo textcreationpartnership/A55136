@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Charles Pamphlin at his execution in Covent-Garden on Wednesday the 22th of May, 1678, for murdering Lieutenant Dalison taken from his own mouth, by two persons that all the while stood in the cart by him.</title>
+            <author>Pamphlin, Charles, d. 1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55136</idno>
+            <idno type="STC">Wing P256</idno>
+            <idno type="STC">ESTC R16903</idno>
+            <idno type="EEBO-CITATION">13640597</idno>
+            <idno type="OCLC">ocm 13640597</idno>
+            <idno type="VID">100888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100888)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 797:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Charles Pamphlin at his execution in Covent-Garden on Wednesday the 22th of May, 1678, for murdering Lieutenant Dalison taken from his own mouth, by two persons that all the while stood in the cart by him.</title>
+                  <author>Pamphlin, Charles, d. 1678.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Reproduction of original in Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pamphlin, Charles, d. 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100888:1"/>
+            <pb facs="tcp:100888:1" rendition="simple:additions"/>
+            <p>THE SPEECH OF <hi>CHARLES PAMPHLIN</hi> AT HIS EXECUTION In COVENT-GARDEN, On <hi>Wedneſday</hi> the 22th of <hi>May</hi> 1678.</p>
+            <p>For Murdering Lieutenant <hi>Daliſon.</hi>
+            </p>
+            <p>Taken from his own Mouth, by two Perſons that all the while ſtood in the Cart by him.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D. M.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100888:2"/>
+            <pb n="3" facs="tcp:100888:2" rendition="simple:additions"/>
+            <head>A perfect Copy of the laſt words of <hi>Charles Pamphlin,</hi> at the Gallows in <hi>Covent-Garden.</hi>
+            </head>
+            <p>THE Priſoner was conducted from <hi>New<g ref="char:EOLhyphen"/>gate</hi> to <hi>Covent-Garden</hi> about ten of the Clock in Morning, having put off his Perriwig, he appeared with a ſetled Coun<g ref="char:EOLhyphen"/>tenance, without the leaſt diſſertion of Spirit, only frequently lifting up his Hands and Eyes to Heaven, and ſeeming ſecretly to pour forth ſome hearty Ejaculations; nor did his Countenance alter at the ſight of the Gibbet, the approaches of the Execu<g ref="char:EOLhyphen"/>tioner, or any of the Circumſtances of this Ignomi<g ref="char:EOLhyphen"/>nious Death, but ſtanding up, and beholding the nu<g ref="char:EOLhyphen"/>merous Crowd that was flockt thither to behold his Tragedy; with an undaunted compoſed look, he ſpake as follows, being taken as exactly as could be from his Mouth, and therefore the Reader muſt ex<g ref="char:EOLhyphen"/>cuſe the abruptneſs or defects of the Stile, ſince he pretended not to the Gown but Sword: And beſides, this was not a time to practiſe Rhetorick.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="scaffold_speech">
+                        <opener>
+                           <salute>Good People,</salute>
+                        </opener>
+                        <p>'Tis uſual for ſuch unhappy Wretches as my ſelf am now become, to ſay ſomething at their going out
+<pb n="4" facs="tcp:100888:3"/>of the World; I know I have but a very little time, I would not miſpend it; 'tis from God alone I can expect Mercy, and to him wholly I deſire to direct my thoughts, yet ſince ſomething will be expected, I muſt tell you, that though I ſuffer juſtly, yet I had no ſuch deſign of Blood. or premeditated intention of Murder as ſome have reported: I confeſs I had Rage and Paſſion in my heart, a kind of Malice you may call it, but it never reacht ſo far as deſign to take away his Life. I had a grudge againſt him, and was prompt on by a crafty Fellow to be reveng'd on him, but not to kill him, God is my Witneſs; and I do confeſs I waited my opportunity, and following him out of the Roſe Tavern, I ſtruck him over the Head with a ſtick I had in my hand; whereupon he drew upon me, and askt why I would ſtrike when I had a Sword by my ſide; at which retreating back, I bethought my ſelf that he would think me a Cow<g ref="char:EOLhyphen"/>ard, if I did not engage him; and ſo I drew, and, as I thought, he run himſelf upon my Sword. Perceiving I had ſorely wounded him, yet not imagining it mortal, for I did not ſee him fall, I was much troubled, and putting up my Weapon went away, and forthwith conveyed my ſelf into the Country, travelling three<g ref="char:EOLhyphen"/>ſcore Miles in the ſpace of three Days, having an in<g ref="char:EOLhyphen"/>tention to tranſport my ſelf beyond the Seas, hoping to have got an opportunity of paſſage with ſome Souldiers, but afterwards fearing I might be diſco<g ref="char:EOLhyphen"/>vered amongſt them, and having not Money to carry me over in the Pacquet-Boat as I firſt intended, be<g ref="char:EOLhyphen"/>ing perplexed with a thouſand tormenting thoughts, deſtitute of Money or Friends, and without any
+<pb n="5" facs="tcp:100888:3" rendition="simple:additions"/>proſpect of hope or ſafety, not knowing what to do, I came back again to <hi>London,</hi> where I was in the ſame diſtreſs as before.</p>
+                        <p>When I was come to Town I repaired to a Friend's Houſe, and enquired of the Woman for her Husband, there being ſome ſmall matter of Money due to me from him, then ſhe told me of Mr. <hi>Daliſons</hi> Murder, and I proteſt it was then that I was firſt aſſured that he was dead: After ſome diſcourſe ſhe went forth to call her Husband, but lockt the outward door after her; upon which having a dread upon my Spirits, I did not think fit to wait her return, but made my eſcape backwards over a Brick-wall, and, it being late, made to <hi>Jewen-ſtreet,</hi> where having an acquaintance, hop<g ref="char:EOLhyphen"/>ing he would have kept me ſecret, I knocked him up, and deſired him for God's ſake to ſecure me; but he told me he durſt not do it, for he had heard I had committed a Murder and acquainted me that who<g ref="char:EOLhyphen"/>ſoever ſhould take me might have 10<hi>l.</hi> reward; and that if he ſhould entertain me, it might coſt him his life, and therefore deſired me to ſhift for my ſelf; upon which I took my leave of him and made away, only telling him, that I intended as ſpeedily as poſſi<g ref="char:EOLhyphen"/>bly I could to tranſport my ſelf beyond the Seas and there to repent of what I had done, which I do pro<g ref="char:EOLhyphen"/>teſt was my ſerious reſolution: But this perſon, who I muſt acknowledge did nothing therein, but what became an honeſt man, and I do declare I do not har<g ref="char:EOLhyphen"/>bour the leaſt ill will againſt him, or any other perſon that I know of in the World; this Man, I ſay, as ſoon as I was parted from him, followed me without ei<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:100888:4"/>Stockings or Breeches; and when he came near the Watch laid hold on me, and cryed out, A Mur<g ref="char:EOLhyphen"/>therer! this is the Man that kill'd Lieutenant <hi>Dali<g ref="char:EOLhyphen"/>ſon:</hi> I confeſs I did endeavour to get from him, and had not Providence order'd it otherwiſe, 'tis poſſible I might have done it, for I ſhook him like a Diſh-clout, but he hang'd ſtill about me like a Cat, till the Watch came up, and then juſt as I was getting away, one of them thruſting his Holbert between my Leggs flung me down, and then I yielded to them.</p>
+                        <p>But I muſt declare that I did not tell the <hi>French-Woman</hi> that I kill'd the Man, although ſhe appeared againſt me as a witneſs; though I believe ſhe did not ſay it out of any ill will to me, but through want of a right underſtanding of <hi>Engliſh</hi> to know what I ſaid to her, and what the Court demanded of her; that the Gentleman dyed by my hand I ſhall not deny; but I had no deſign before to kill him, but that All<g ref="char:EOLhyphen"/>ſeeing Eye, who accounts a wanton Eye Adultery, has been pleaſed to punniſh my unbridled Rage and Anger againſt him in the ſame degree, as if I had premeditated the Fact: The Lord forgive me, I con<g ref="char:EOLhyphen"/>feſs I righteouſly deſerve this, and a thouſand deaths, but through the merits of my Saviour, I truſt he will pardon me, not only that but all other my Sins.</p>
+                        <p>My Life has been very ill, I have nothing to ſay to ex<g ref="char:EOLhyphen"/>cuſe my ſelf; I wiſh my ſad Example may warn others from the like miſchiefs: Pride firſt made Devils, I am ſure by woful experience it made me the Devil's Servant and brought me to ruine. When I ſhould have been at work, or about God's Service, my
+<pb n="7" facs="tcp:100888:4" rendition="simple:additions"/>mind was chiefly imployed either on Objects of De<g ref="char:EOLhyphen"/>bauchery, or thoughts how to get Money to ſupply my Extravagances. Blood, Oh Blood, is a crying Sin; I do aſſure you I ſuffer'd more by the Tortures or Con<g ref="char:EOLhyphen"/>ſcience before I was taken, than the Inconveniences of a Priſon, or thoughts of Death could inflict upon me: Oh! what madneſs is it for a Man to ſalve his Reputation to wound his Soul: To hazard his Life to gratifie his Humour, or rather the Humours of o<g ref="char:EOLhyphen"/>thers: I hope people will take warning by me not to draw their Swords on ſuch ſmall trifling pretences; Nay if it were a thouſand times greater Affronts, were it not better to put them up, than to require Sa<g ref="char:EOLhyphen"/>tisfaction: Alas! Gentlemen, I pray look up <hi>[caſting his Eye upwards towards the Gallows]</hi> this is my Satis<g ref="char:EOLhyphen"/>faction, even the Gallows: What madneſs is it to think to ſecure ones Reputation by an Action that will certainly bring one to an ignominious ſhameful end, and be juſtly condemned and deteſted of all Mankind. God preſerve every Man from deſiring ſuch ſatisfacti<g ref="char:EOLhyphen"/>on, and from Blood-guiltineſs, even in any degree: Deliver me, O Lord, I am a vile ſinner, I have no<g ref="char:EOLhyphen"/>thing to plead, but the merits of my Saviour, and to him alone I recommend my ſelf.</p>
+                        <p>There was one came to me in Priſon, and with inſinuating words endeavoured to poſſeſs me with a good opinion of him, at laſt asking me what Reli<g ref="char:EOLhyphen"/>gion I would dye in, to which I anſwered a Prote<g ref="char:EOLhyphen"/>ſtant, though moſt unworthy, having in all things neglected both the pure Doctrine and moſt uſeful Diſcipline of the moſt Reformed Church in the
+<pb n="8" facs="tcp:100888:5"/>World. This Stranger told me he was of that mind once, but now he underſtood better, perſwading me to turn <hi>Roman</hi> Catholick, but I denyed and withſtood his Temptations; and there are thoſe that can relate what I ſaid more at large. I am an unworthy Pro<g ref="char:EOLhyphen"/>teſtant, a Prodigal that deſerves to feed on Husks with Swine, but that by the alone merits of Chriſt (no<g ref="char:EOLhyphen"/>thing of my own) I hope for ſalvation. The Lord bleſs this Land, and ſanctifie the Example of my death to all preſent; I deſire the Prayers of all good Chriſtians for me: I have but a ſtep between me and Eternity. The Lord look in mercy upon me a miſe<g ref="char:EOLhyphen"/>rable ſinner. Good People pray for me.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Then he compoſed himſelf to Prayer; but when the Miniſter had lookt out a fit Hymn to ſing, accor<g ref="char:EOLhyphen"/>ding to Cuſtom on ſuch Occaſions, which was <hi>The Lamentation of a Sinner,</hi> and deſired the People pre<g ref="char:EOLhyphen"/>ſent to ſing it, and he would read it; the Priſoner an<g ref="char:EOLhyphen"/>ſwered, <hi>Read it to me and it will be as well.</hi> Then praying with the Miniſter, when it was concluded, he of his own accord ſtept up on the Wheel of the Cart, and the Hangman did his Office.</p>
+            <closer>The truth hereof is atteſted by
+<signed>us
+<list>
+                     <item>THO. TEMPLEMAN.</item>
+                     <item>JOHN SEALE.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100888:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
